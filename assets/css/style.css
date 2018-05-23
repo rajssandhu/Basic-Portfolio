@@ -1,0 +1,29 @@
+body {
+    background-image: url("../images/country-quilt.png")
+}
+
+h1 {
+    background-color: #ffffff;
+    height: 50px;
+    border: #cccccc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div.a {
+    transform:rotate(90deg)
+}
+
+div {
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+
+footer {background-color: #666666;
+    height: 50px;
+    border: #cccccc;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
